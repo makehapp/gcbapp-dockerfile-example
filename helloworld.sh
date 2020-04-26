@@ -13,4 +13,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-echo "Hello, world 1!"
+echo "Hello, world 2!"
